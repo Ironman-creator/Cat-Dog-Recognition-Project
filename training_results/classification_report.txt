@@ -1,0 +1,19 @@
+Train Classification Report:
+              precision    recall  f1-score   support
+
+         cat       0.98      0.98      0.98     10000
+         dog       0.98      0.98      0.98     10000
+
+    accuracy                           0.98     20000
+   macro avg       0.98      0.98      0.98     20000
+weighted avg       0.98      0.98      0.98     20000
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+         cat       0.96      0.95      0.95      2500
+         dog       0.95      0.96      0.95      2500
+
+    accuracy                           0.95      5000
+   macro avg       0.95      0.95      0.95      5000
+weighted avg       0.95      0.95      0.95      5000
